@@ -1,0 +1,1 @@
+# Parallel-Implementation-of-Edge-Detection-Algorithms
