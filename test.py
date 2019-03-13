@@ -37,7 +37,9 @@ def sobel_filter():
 	return h_dx, h_dy
 
 
-img = cv2.imread("Lenna_image.png")
+# img = cv2.imread("Lenna_image.png")
+img = cv2.imread("flower.jpeg", 1)
+
 plt.imshow(img)
 plt.title('Original Image')
 plt.show()
