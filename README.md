@@ -15,6 +15,7 @@ This can be explained step wise :
 5) Sobel Filter applied for edge detection
 
 ## Results
+Tested on an NVIDIA GeForce GT 640 GPU using the NVIDIA Nsight Eclipse Edition IDE
 
 Original
 
